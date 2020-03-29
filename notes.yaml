@@ -1,0 +1,7 @@
+Type: Jupyter Notebook Extension
+Name: Notes
+Description: take Notes
+Link: README.md
+Icon: icon.png
+Main: main.js
+Compatibility: 4.x, 5.x

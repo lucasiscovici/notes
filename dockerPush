@@ -1,0 +1,3 @@
+_docker tag $(myEnv.sh getEnvIm) luluisco/$(myEnv.sh getEnvIm)
+_docker push luluisco/$(myEnv.sh getEnvIm)
+
